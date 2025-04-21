@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "title": "APS-MS | Professional Security Solutions",
+    "description": "APS-MS offers professional security and protection solutions for your business and property"
+  },
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "projects": "Projects",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "buttons": {
+    "getQuote": "Get a quote",
+    "learnMore": "Learn more",
+    "contactUs": "Contact us",
+    "sendMessage": "Send message",
+    "readMore": "Read more",
+    "viewAllProjects": "View all projects",
+    "viewAllPosts": "View all posts",
+    "backToHome": "Back to homepage"
+  },
+  "home": {
+    "hero": {
+      "title": "Professional security solutions for your business and property",
+      "subtitle": "Expertise, quality, and customized solutions for your safety and protection",
+      "cta": "Schedule a consultation"
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "We offer a complete range of professional security services",
+      "items": [
+        {
+          "title": "Personal Security",
+          "description": "Bodyguard services for events and intervention teams for businesses"
+        },
+        {
+          "title": "Security Systems",
+          "description": "Fire alarms, anti-theft systems, CCTV video surveillance, access control, and VoIP solutions"
+        },
+        {
+          "title": "Maintenance & Installation",
+          "description": "Complete maintenance and installation services provided by our in-house technical team"
+        },
+        {
+          "title": "Access Solutions",
+          "description": "Auto access barriers, gate automation, and video/audio intercom systems for offices and private properties"
+        }
+      ]
+    },
+    "about": {
+      "title": "About APS-MS",
+      "subtitle": "With over 15 years of experience in the security field",
+      "description": "We are a company specialized in designing, installing, and maintaining security and protection systems. Our team of experts is dedicated to providing high-quality solutions and personalized services to perfectly meet our clients' safety needs.",
+      "stats": [
+        {
+          "value": "15+",
+          "label": "Years of experience"
+        },
+        {
+          "value": "500+",
+          "label": "Completed projects"
+        },
+        {
+          "value": "300+",
+          "label": "Satisfied clients"
+        },
+        {
+          "value": "50+",
+          "label": "Employed specialists"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Ready to improve your security?",
+      "description": "Contact us today to discuss your needs and get a personalized quote.",
+      "button": "Request a quote"
+    },
+    "testimonials": {
+      "title": "What our clients say",
+      "subtitle": "Real experiences from our clients",
+      "items": [
+        {
+          "content": "APS-MS provided an excellent solution for our security system. True professionals, I highly recommend them!",
+          "author": "Alexander Smith",
+          "position": "General Director, Alfa Solutions"
+        },
+        {
+          "content": "Working with the APS-MS team was impeccable. The project was delivered on time and within budget, exceeding our expectations.",
+          "author": "Maria Johnson",
+          "position": "Operations Manager, Beta Industries"
+        },
+        {
+          "content": "We've been working with APS-MS for 5 years for the maintenance of our security systems and we are very satisfied with their professionalism.",
+          "author": "Christian Williams",
+          "position": "Facility Manager, Gamma Retail"
+        }
+      ]
+    },
+    "projects": {
+      "title": "Our recent projects",
+      "subtitle": "Explore a selection of our recently completed projects",
+      "viewAll": "View all projects"
+    },
+    "partners": {
+      "title": "Our partners",
+      "subtitle": "We collaborate with the best companies in the industry"
+    },
+    "blog": {
+      "title": "Latest articles",
+      "subtitle": "Find out the latest news and tips from the security industry",
+      "viewAll": "View all articles"
+    }
+  },
+  "footer": {
+    "description": "APS-MS offers professional security and protection solutions for your business and property",
+    "copyright": "© 2025 APS-MS. All rights reserved.",
+    "links": {
+      "title": "Quick links",
+      "privacy": "Cookie policy",
+      "terms": "Terms and conditions"
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "Strada Bradului 200, Sâncraiu de Mureș, Mureș, România",
+      "phone": "0731-021.379",
+      "email": "contact@aps-ms.ro"
+    },
+    "social": {
+      "title": "Social media",
+      "follow": "Follow us on"
+    }
+  },
+  "cookie": {
+    "message": "This site uses cookies to improve your experience.",
+    "accept": "Accept",
+    "decline": "Decline",
+    "learnMore": "Learn more"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "We're here to answer your questions and help you with any requests.",
+    "form": {
+      "firstName": "First name",
+      "lastName": "Last name",
+      "email": "Email",
+      "phone": "Phone",
+      "message": "Tell us briefly what you need...",
+      "messageLabel": "Your message",
+      "submit": "Send message",
+      "success": "Thank you! We'll contact you soon.",
+      "error": "An error occurred. Please try again.",
+      "keyboardShortcut": "Press 'C' key to quickly focus the first field.",
+      "required": "This field is required",
+      "invalidEmail": "Please enter a valid email address",
+      "invalidPhone": "Phone number should contain only digits"
+    },
+    "location": {
+      "title": "Location",
+      "address": "Strada Bradului 200, Sâncraiu de Mureș, Mureș, România",
+      "mapLink": "Open in Google Maps"
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "Meet the team that ensures the security of your business and property.",
+    "whoWeAre": {
+      "title": "Who We Are",
+      "content": [
+        "With over 10 years of experience in private security, Alpha Partner Security provides intelligent and customized solutions for companies that want uncompromising safety.",
+        "We differentiate ourselves through professionalism, state-of-the-art technology, and a constant commitment to quality. Each intervention is supported by a carefully trained team, dedicated to protecting our clients' assets and peace of mind.",
+        "We emphasize solid partnerships, confidentiality, and an approach tailored to each client's needs. For us, security means trust built through concrete actions."
+      ]
+    },
+    "principles": {
+      "title": "Our Defining Principles",
+      "items": [
+        {
+          "title": "Performance",
+          "content": "We commit to delivering services at the highest standards, with rapid, efficient interventions and teams prepared for any scenario."
+        },
+        {
+          "title": "Integrity",
+          "content": "Transparency and honesty are the foundation of our relationship with each client. We honor our promises, without exception."
+        },
+        {
+          "title": "Discretion",
+          "content": "We protect not just assets, but also confidentiality — an essential element in any lasting partnership."
+        }
+      ]
+    },
+    "experience": {
+      "title": "The Experience That Recommends Us",
+      "items": [
+        "We have built a solid reputation over time based on results, not just words.",
+        "Our clients know they can rely on us for 24/7 security, whether we're talking about rapid interventions, intelligent systems, or complex surveillance.",
+        "We are always one step ahead, so that clients can focus on what truly matters — the peace of mind and continuity of their business."
+      ],
+      "stats": [
+        {
+          "label": "Industry experience",
+          "value": "10+ years",
+          "percentage": "90%"
+        },
+        {
+          "label": "Satisfied clients",
+          "value": "300+",
+          "percentage": "95%"
+        },
+        {
+          "label": "Response promptness",
+          "value": "98%",
+          "percentage": "98%"
+        }
+      ]
+    },
+    "team": {
+      "title": "Our Team",
+      "subtitle": "Dedicated professionals ensuring the protection and security of our clients.",
+      "quote": "Security is not just a service we offer, but a promise we commit to fulfill for each client. This is our mission, every day."
+    },
+    "cta": {
+      "title": "Would you like a free assessment of your security needs?",
+      "description": "Contact us today to discuss your security needs and receive a personalized quote.",
+      "button": "Request a consultation"
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "We provide quality services for the safety and protection of your facilities.",
+    "services": [
+      {
+        "title": "Security and protection, rapid intervention",
+        "content": "We provide human security services, patrolling and rapid response to events, 24/7. Our teams are trained, equipped and coordinated through our own dispatch center. We respond promptly to protect our clients."
+      },
+      {
+        "title": "Access control systems",
+        "content": "We implement modern access control solutions for residential and industrial buildings. Biometric control, RFID cards or PIN codes. Access is managed safely and efficiently, with centralized reports."
+      },
+      {
+        "title": "Anti-theft system installation",
+        "content": "We install professional anti-theft systems, integrated with sensors, sirens and real-time alerts. Customized configuration for homes, offices and commercial spaces. We ensure continuous monitoring through our dispatch center."
+      },
+      {
+        "title": "Fire detection system installation",
+        "content": "We install and configure certified fire systems compliant with IGSU, P118/3 and EN54 standards. We ensure rapid detection, efficient warning and automatic triggering of safety measures. We comply with all legal requirements for optimal protection of lives and property."
+      },
+      {
+        "title": "Monitoring Center / Surveillance",
+        "content": "We continuously monitor all alarms and field events through our own dispatch center. We intervene quickly in case of burglary, fire or emergencies. Our infrastructure is redundant and secure."
+      },
+      {
+        "title": "Technical systems maintenance",
+        "content": "We provide periodic maintenance and technical interventions for all installed systems. Quick checks, updates and repairs for optimal operation. Flexible service contracts available."
+      },
+      {
+        "title": "Auto access barriers and gate automation systems",
+        "content": "We provide automated solutions for auto access control: barriers, sliding or swing gates. Robust systems, remote-controlled or integrated into access control systems. Aesthetics and functionality at high standards."
+      },
+      {
+        "title": "Data and voice networks for companies",
+        "content": "We design and install professionally structured data and voice communication networks. Stable, fast and scalable solutions for offices and industrial halls. Updated technology and optimized cable routing."
+      },
+      {
+        "title": "Video/audio intercom for offices and private properties",
+        "content": "Audio and video intercom systems for offices and private properties. We offer visibility, control and efficient communication at access points. Discreet installation and integration with other security systems."
+      },
+      {
+        "title": "CCTV video surveillance",
+        "content": "We install modern surveillance cameras with night vision, HD resolution and remote access. Intelligent configuration with cloud or local storage. Complete monitoring for any type of location."
+      }
+    ],
+    "cta": {
+      "title": "Protect your investment with reliable security solutions",
+      "description": "Our experts are available for a complete and personalized assessment of your security needs. Schedule a free consultation today.",
+      "button": "Request a security assessment"
+    }
+  },
+  "projects": {
+    "title": "Our Projects",
+    "subtitle": "Explore our diverse portfolio of security solutions implemented for clients across various sectors.",
+    "cta": {
+      "title": "Want to be our next success project?",
+      "description": "Contact us today to discuss your security needs and receive a personalized offer.",
+      "button": "Request a consultation"
+    }
+  },
+  "map": {
+    "title": "Nationwide Presence",
+    "subtitle": "Based in Sâncraiu de Mureș, we provide security services throughout Romania",
+    "hq": "Headquarters",
+    "instructions": {
+      "main": "Use your mouse to interact with the map. Hover over cities for details.",
+      "zoom": "Use the mouse wheel or buttons to zoom, and click+drag to move around the map."
+    },
+    "citiesInfo": {
+      "București": "Romania's capital, administrative and cultural center of the country",
+      "Cluj-Napoca": "The second largest city, technological and university center",
+      "Timișoara": "Capital of Banat, important economic and cultural center",
+      "Iași": "Major cultural and university center in the Moldova region",
+      "Constanța": "Romania's most important maritime port on the Black Sea",
+      "Brașov": "Important tourist destination with a rich medieval history",
+      "Craiova": "Economic and cultural center of the Oltenia region",
+      "Galați": "Important river port on the Danube and industrial center"
+    }
+  },
+  "privacy": {
+    "title": "Cookie Policy",
+    "subtitle": "Information about how we use cookies on our website",
+    "description": "Important information about the cookies used on our website",
+    "language": "en"
+  },
+  "terms": {
+    "title": "Terms and Conditions",
+    "subtitle": "Terms and conditions of use for our website",
+    "description": "Information about your rights and obligations as a user of our website",
+    "language": "en"
+  }
+}

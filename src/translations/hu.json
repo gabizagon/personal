@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "title": "APS-MS | Professzionális Biztonsági Megoldások",
+    "description": "Az APS-MS professzionális biztonsági és védelmi megoldásokat kínál vállalkozása és ingatlana számára"
+  },
+  "navigation": {
+    "home": "Főoldal",
+    "about": "Rólunk",
+    "services": "Szolgáltatások",
+    "projects": "Projektek",
+    "blog": "Blog",
+    "contact": "Kapcsolat"
+  },
+  "buttons": {
+    "getQuote": "Árajánlat kérése",
+    "learnMore": "Tudjon meg többet",
+    "contactUs": "Kapcsolat",
+    "sendMessage": "Üzenet küldése",
+    "readMore": "Tovább olvasás",
+    "viewAllProjects": "Összes projekt megtekintése",
+    "viewAllPosts": "Összes bejegyzés megtekintése",
+    "backToHome": "Vissza a főoldalra"
+  },
+  "home": {
+    "hero": {
+      "title": "Professzionális biztonsági megoldások vállalkozása és ingatlana számára",
+      "subtitle": "Szakértelem, minőség és személyre szabott megoldások az Ön biztonságáért és védelméért",
+      "cta": "Konzultáció ütemezése"
+    },
+    "services": {
+      "title": "Szolgáltatásaink",
+      "subtitle": "Professzionális biztonsági szolgáltatások teljes körét kínáljuk",
+      "items": [
+        {
+          "title": "Személyes védelem",
+          "description": "Testőrszolgáltatások rendezvényekre és beavatkozó csapatok vállalkozások számára"
+        },
+        {
+          "title": "Biztonsági rendszerek",
+          "description": "Tűzriasztók, betörésvédelmi rendszerek, CCTV videomegfigyelés, beléptetőrendszerek és VoIP megoldások"
+        },
+        {
+          "title": "Karbantartás és telepítés",
+          "description": "Teljes körű karbantartási és telepítési szolgáltatások belső műszaki csapatunk által"
+        },
+        {
+          "title": "Beléptetési megoldások",
+          "description": "Automatikus sorompók, kapuautomatizálás és video/audio kaputelefon rendszerek irodák és magáningatlanok számára"
+        }
+      ]
+    },
+    "about": {
+      "title": "Az APS-MS-ről",
+      "subtitle": "Több mint 15 éves tapasztalattal a biztonság területén",
+      "description": "Cégünk biztonsági és védelmi rendszerek tervezésére, telepítésére és karbantartására szakosodott. Szakértői csapatunk elkötelezett a kiváló minőségű megoldások és személyre szabott szolgáltatások nyújtása mellett, hogy tökéletesen megfeleljen ügyfeleink biztonsági igényeinek.",
+      "stats": [
+        {
+          "value": "15+",
+          "label": "Év tapasztalat"
+        },
+        {
+          "value": "500+",
+          "label": "Befejezett projekt"
+        },
+        {
+          "value": "300+",
+          "label": "Elégedett ügyfél"
+        },
+        {
+          "value": "50+",
+          "label": "Alkalmazott szakember"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Készen áll a biztonságának javítására?",
+      "description": "Vegye fel velünk a kapcsolatot még ma, hogy megbeszéljük igényeit és személyre szabott árajánlatot kapjon.",
+      "button": "Árajánlat kérése"
+    },
+    "testimonials": {
+      "title": "Mit mondanak ügyfeleink",
+      "subtitle": "Valós tapasztalatok ügyfeleinktől",
+      "items": [
+        {
+          "content": "Az APS-MS kiváló megoldást biztosított biztonsági rendszerünkhöz. Igazi szakemberek, teljes mértékben ajánlom őket!",
+          "author": "Nagy Sándor",
+          "position": "Vezérigazgató, Alfa Solutions"
+        },
+        {
+          "content": "Az APS-MS csapatával való együttműködés kifogástalan volt. A projektet időben és a költségvetésen belül szállították, meghaladva elvárásainkat.",
+          "author": "Kovács Mária",
+          "position": "Operatív vezető, Beta Industries"
+        },
+        {
+          "content": "5 éve dolgozunk együtt az APS-MS-sel biztonsági rendszereink karbantartásában, és nagyon elégedettek vagyunk szakmaiságukkal.",
+          "author": "Tóth Krisztián",
+          "position": "Létesítményvezető, Gamma Retail"
+        }
+      ]
+    },
+    "projects": {
+      "title": "Legutóbbi projektjeink",
+      "subtitle": "Fedezze fel a közelmúltban befejezett projektjeink válogatását",
+      "viewAll": "Összes projekt megtekintése"
+    },
+    "partners": {
+      "title": "Partnereink",
+      "subtitle": "Az iparág legjobb cégeivel működünk együtt"
+    },
+    "blog": {
+      "title": "Legfrissebb cikkek",
+      "subtitle": "Ismerje meg a legfrissebb híreket és tippeket a biztonsági iparágból",
+      "viewAll": "Összes cikk megtekintése"
+    }
+  },
+  "footer": {
+    "description": "Az APS-MS professzionális biztonsági és védelmi megoldásokat kínál vállalkozása és ingatlana számára",
+    "copyright": "© 2025 APS-MS. Minden jog fenntartva.",
+    "links": {
+      "title": "Gyors linkek",
+      "privacy": "Cookie-k használatának szabályzata",
+      "terms": "Általános szerződési feltételek"
+    },
+    "contact": {
+      "title": "Kapcsolat",
+      "address": "Strada Bradului 200, Sâncraiu de Mureș, Mureș, România",
+      "phone": "0731-021.379",
+      "email": "contact@aps-ms.ro"
+    },
+    "social": {
+      "title": "Közösségi média",
+      "follow": "Kövessen minket"
+    }
+  },
+  "cookie": {
+    "message": "Ez a webhely cookie-kat használ a felhasználói élmény javítása érdekében.",
+    "accept": "Elfogadás",
+    "decline": "Elutasítás",
+    "learnMore": "További információ"
+  },
+  "contact": {
+    "title": "Kapcsolat",
+    "subtitle": "Itt vagyunk, hogy válaszoljunk kérdéseire és segítsünk minden kérésében.",
+    "form": {
+      "firstName": "Keresztnév",
+      "lastName": "Vezetéknév",
+      "email": "E-mail",
+      "phone": "Telefonszám",
+      "message": "Röviden mondja el, mire van szüksége...",
+      "messageLabel": "Az Ön üzenete",
+      "submit": "Üzenet küldése",
+      "success": "Köszönjük! Hamarosan kapcsolatba lépünk Önnel.",
+      "error": "Hiba történt. Kérjük, próbálja újra.",
+      "keyboardShortcut": "Nyomja meg a 'C' billentyűt az első mező gyors fókuszálásához.",
+      "required": "Ez a mező kötelező",
+      "invalidEmail": "Kérjük, adjon meg egy érvényes e-mail címet",
+      "invalidPhone": "A telefonszám csak számjegyeket tartalmazhat"
+    },
+    "location": {
+      "title": "Helyszín",
+      "address": "Strada Bradului 200, Sâncraiu de Mureș, Mureș, România",
+      "mapLink": "Megnyitás a Google Térképen"
+    }
+  },
+  "about": {
+    "title": "Rólunk",
+    "subtitle": "Ismerje meg a csapatot, amely biztosítja vállalkozása és ingatlana biztonságát.",
+    "whoWeAre": {
+      "title": "Kik vagyunk",
+      "content": [
+        "Több mint 10 éves tapasztalattal a magánbiztonsági ágazatban, az Alpha Partner Security intelligens és személyre szabott megoldásokat kínál a kompromisszumok nélküli biztonságot kereső vállalatok számára.",
+        "Szakmaiságunkkal, csúcstechnológiánkkal és a minőség iránti folyamatos elkötelezettségünkkel különböztetjük meg magunkat. Minden beavatkozást gondosan képzett csapat támogat, amely elkötelezett ügyfeleink vagyonának és nyugalmának védelme mellett.",
+        "Hangsúlyt fektetünk a szilárd partnerségekre, a titoktartásra és az egyes ügyfelek igényeihez igazított megközelítésre. Számunkra a biztonság konkrét intézkedéseken keresztül felépített bizalmat jelent."
+      ]
+    },
+    "principles": {
+      "title": "Alapelveink",
+      "items": [
+        {
+          "title": "Teljesítmény",
+          "content": "Elkötelezettek vagyunk a legmagasabb színvonalú szolgáltatások nyújtása mellett, gyors, hatékony beavatkozásokkal és bármilyen forgatókönyvre felkészült csapatokkal."
+        },
+        {
+          "title": "Integritás",
+          "content": "Az átláthatóság és a becsületesség minden ügyféllel való kapcsolatunk alapja. Kivétel nélkül betartjuk ígéreteinket."
+        },
+        {
+          "title": "Diszkréció",
+          "content": "Nem csak az értékeket, hanem a bizalmasságot is védjük — ami elengedhetetlen elem minden tartós partnerségben."
+        }
+      ]
+    },
+    "experience": {
+      "title": "A tapasztalat, ami ajánl minket",
+      "items": [
+        "Idővel szilárd hírnevet építettünk fel, amely eredményeken, nem csupán szavakon alapul.",
+        "Ügyfeleink tudják, hogy 24/7 biztonságért számíthatnak ránk, legyen szó gyors beavatkozásokról, intelligens rendszerekről vagy összetett megfigyelésről.",
+        "Mindig egy lépéssel előrébb járunk, így ügyfeleink arra koncentrálhatnak, ami valóban számít — üzletük nyugalmára és folytonosságára."
+      ],
+      "stats": [
+        {
+          "label": "Iparági tapasztalat",
+          "value": "10+ év",
+          "percentage": "90%"
+        },
+        {
+          "label": "Elégedett ügyfelek",
+          "value": "300+",
+          "percentage": "95%"
+        },
+        {
+          "label": "Gyors reagálás",
+          "value": "98%",
+          "percentage": "98%"
+        }
+      ]
+    },
+    "team": {
+      "title": "Csapatunk",
+      "subtitle": "Elkötelezett szakemberek, akik biztosítják ügyfeleink védelmét és biztonságát.",
+      "quote": "A biztonság nemcsak egy szolgáltatás, amit nyújtunk, hanem egy ígéret, amelyet minden ügyfél számára teljesíteni vállalunk. Ez a küldetésünk, minden nap."
+    },
+    "cta": {
+      "title": "Szeretne ingyenes értékelést biztonsági igényeiről?",
+      "description": "Vegye fel velünk a kapcsolatot még ma, hogy megbeszéljük biztonsági igényeit és személyre szabott árajánlatot kapjon.",
+      "button": "Kérjen konzultációt"
+    }
+  },
+  "services": {
+    "title": "Szolgáltatásaink",
+    "subtitle": "Minőségi szolgáltatásokat nyújtunk objektumai biztonságáért és védelméért.",
+    "services": [
+      {
+        "title": "Őrzés és védelem, gyors beavatkozás",
+        "content": "Személyi őrzési, járőrözési és gyors reagálási szolgáltatásokat nyújtunk eseményekhez, 24/7. Csapataink képzettek, felszereltek és saját diszpécserközpontunk által koordináltak. Gyorsan reagálunk ügyfeleink védelme érdekében."
+      },
+      {
+        "title": "Beléptetőrendszerek",
+        "content": "Modern beléptetési megoldásokat telepítünk lakó- és ipari épületekhez. Biometrikus azonosítás, RFID kártyák vagy PIN-kódok. A hozzáférés biztonságosan és hatékonyan kezelhető, központosított jelentésekkel."
+      },
+      {
+        "title": "Betörésvédelmi rendszerek telepítése",
+        "content": "Professzionális betörésvédelmi rendszereket telepítünk, integrálva érzékelőkkel, szirénákkal és valós idejű riasztásokkal. Személyre szabott konfiguráció otthonokhoz, irodákhoz és kereskedelmi területekhez. Folyamatos felügyeletet biztosítunk a diszpécserközpontunkon keresztül."
+      },
+      {
+        "title": "Tűzvédelmi rendszerek telepítése",
+        "content": "Tanúsított tűzvédelmi rendszereket telepítünk és konfigurálunk az IGSU, P118/3 és EN54 szabványoknak megfelelően. Gyors észlelést, hatékony figyelmeztetést és a biztonsági intézkedések automatikus aktiválását biztosítjuk. Minden jogi követelménynek megfelelünk az életek és vagyontárgyak optimális védelme érdekében."
+      },
+      {
+        "title": "Diszpécserközpont / Felügyelet",
+        "content": "Folyamatosan felügyeljük az összes riasztást és helyszíni eseményt a saját diszpécserközpontunkon keresztül. Gyorsan beavatkozunk betörés, tűz vagy vészhelyzet esetén. Infrastruktúránk redundáns és biztonságos."
+      },
+      {
+        "title": "Rendszerek műszaki karbantartása",
+        "content": "Rendszeres karbantartást és műszaki beavatkozásokat biztosítunk minden telepített rendszerhez. Gyors ellenőrzések, frissítések és javítások az optimális működés érdekében. Rugalmas szervizelési szerződések elérhetők."
+      },
+      {
+        "title": "Autós beléptető sorompók és kapuautomatizálási rendszerek",
+        "content": "Automatizált megoldásokat kínálunk a gépjárműforgalom szabályozására: sorompók, tolókapuk vagy nyílókapuk. Robusztus, távirányítható vagy beléptetőrendszerekbe integrált rendszerek. Esztétika és funkcionalitás magas színvonalon."
+      },
+      {
+        "title": "Adat- és hanghálózatok vállalatok számára",
+        "content": "Professzionálisan strukturált adat- és hangkommunikációs hálózatokat tervezünk és telepítünk. Stabil, gyors és skálázható megoldások irodákhoz és ipari csarnokokhoz. Korszerű technológia és optimalizált kábelezés."
+      },
+      {
+        "title": "Video/audió kaputelefon irodákhoz és magáningatlanokhoz",
+        "content": "Audio és video kaputelefon rendszerek irodákhoz és magáningatlanokhoz. Láthatóságot, irányítást és hatékony kommunikációt biztosítunk a belépési pontokon. Diszkrét telepítés és integráció más biztonsági rendszerekkel."
+      },
+      {
+        "title": "CCTV videomegfigyelés",
+        "content": "Modern megfigyelő kamerákat telepítünk éjszakai látással, HD felbontással és távoli hozzáféréssel. Intelligens konfiguráció felhő- vagy helyi tárolással. Teljes körű megfigyelés bármilyen helyszínhez."
+      }
+    ],
+    "cta": {
+      "title": "Védje befektetését megbízható biztonsági megoldásokkal",
+      "description": "Szakértőink rendelkezésre állnak biztonsági igényeinek teljes körű és személyre szabott felmérésére. Foglaljon időpontot ingyenes konzultációra még ma.",
+      "button": "Kérjen biztonsági felmérést"
+    }
+  },
+  "projects": {
+    "title": "Projektjeink",
+    "subtitle": "Fedezze fel a különböző ágazatokban működő ügyfelek számára megvalósított biztonsági megoldásaink változatos portfólióját.",
+    "cta": {
+      "title": "Szeretne a következő sikeres projektünk lenni?",
+      "description": "Vegye fel velünk a kapcsolatot még ma, hogy megbeszéljük biztonsági igényeit és személyre szabott ajánlatot kapjon.",
+      "button": "Kérjen konzultációt"
+    }
+  },
+  "map": {
+    "title": "Országos jelenlét",
+    "subtitle": "Sâncraiu de Mureș-i székhelyünkről egész Romániában biztonsági szolgáltatásokat nyújtunk",
+    "hq": "Központi iroda",
+    "instructions": {
+      "main": "Használja az egeret a térképpel való interakcióhoz. Vigye az egérmutatót a városok fölé a részletekért.",
+      "zoom": "Használja az egérgörgőt vagy a gombokat a nagyításhoz, és kattintson+húzzon a térkép körüli navigáláshoz."
+    },
+    "citiesInfo": {
+      "București": "Románia fővárosa, az ország közigazgatási és kulturális központja",
+      "Cluj-Napoca": "A második legnagyobb város, technológiai és egyetemi központ",
+      "Timișoara": "Bánát fővárosa, fontos gazdasági és kulturális központ",
+      "Iași": "Jelentős kulturális és egyetemi központ a moldvai régióban",
+      "Constanța": "Románia legfontosabb tengeri kikötője a Fekete-tengeren",
+      "Brașov": "Fontos turisztikai célpont gazdag középkori történelemmel",
+      "Craiova": "Az olténiai régió gazdasági és kulturális központja",
+      "Galați": "Fontos folyami kikötő a Dunán és ipari központ"
+    }
+  },
+  "privacy": {
+    "title": "Cookie-k használatának szabályzata",
+    "subtitle": "Információk a weboldalunkon használt sütikről",
+    "description": "Fontos információk a weboldalunkon használt cookie-kről",
+    "language": "hu"
+  },
+  "terms": {
+    "title": "Általános szerződési feltételek",
+    "subtitle": "Weboldalunk használatára vonatkozó feltételek és kikötések",
+    "description": "Információk az Ön jogairól és kötelezettségeiről weboldalunk felhasználójaként",
+    "language": "hu"
+  }
+}

@@ -1,0 +1,320 @@
+{
+  "meta": {
+    "title": "APS-MS | Soluții Profesionale de Securitate",
+    "description": "APS-MS oferă soluții profesionale de securitate și protecție pentru afacerea și proprietatea dumneavoastră"
+  },
+  "navigation": {
+    "home": "Acasă",
+    "about": "Despre noi",
+    "services": "Servicii",
+    "projects": "Proiecte",
+    "blog": "Blog",
+    "contact": "Contact"
+  },
+  "buttons": {
+    "getQuote": "Solicită ofertă",
+    "learnMore": "Află mai multe",
+    "contactUs": "Contactează-ne",
+    "sendMessage": "Trimite mesaj",
+    "readMore": "Citește mai mult",
+    "viewAllProjects": "Vezi toate proiectele",
+    "viewAllPosts": "Vezi toate articolele",
+    "backToHome": "Înapoi la pagina principală"
+  },
+  "home": {
+    "hero": {
+      "title": "Soluții profesionale de securitate pentru afacerea și proprietatea dumneavoastră",
+      "subtitle": "Expertiză, calitate și soluții personalizate pentru siguranța și protecția dumneavoastră",
+      "cta": "Programează o consultație"
+    },
+    "services": {
+      "title": "Serviciile noastre",
+      "subtitle": "Oferim o gamă completă de servicii profesionale de securitate",
+      "items": [
+        {
+          "title": "Securitate personală",
+          "description": "Servicii de bodyguard pentru evenimente și echipe de intervenție pentru afaceri"
+        },
+        {
+          "title": "Sisteme de securitate",
+          "description": "Alarme incendiu, sisteme anti-efracție, supraveghere video CCTV, control acces și soluții VoIP"
+        },
+        {
+          "title": "Mentenanță & Instalare",
+          "description": "Servicii complete de întreținere și instalare oferite de echipa noastră tehnică internă"
+        },
+        {
+          "title": "Soluții de acces",
+          "description": "Bariere auto, automatizări pentru porți și sisteme de interfonie video/audio pentru birouri și proprietăți private"
+        }
+      ]
+    },
+    "about": {
+      "title": "Despre APS-MS",
+      "subtitle": "Cu peste 15 ani de experiență în domeniul securității",
+      "description": "Suntem o companie specializată în proiectarea, instalarea și mentenanța sistemelor de securitate și protecție. Echipa noastră de experți este dedicată să ofere soluții de înaltă calitate și servicii personalizate pentru a răspunde perfect nevoilor de siguranță ale clienților noștri.",
+      "stats": [
+        {
+          "value": "15+",
+          "label": "Ani de experiență"
+        },
+        {
+          "value": "500+",
+          "label": "Proiecte finalizate"
+        },
+        {
+          "value": "300+",
+          "label": "Clienți mulțumiți"
+        },
+        {
+          "value": "50+",
+          "label": "Specialiști angajați"
+        }
+      ]
+    },
+    "cta": {
+      "title": "Pregătiți să vă îmbunătățiți securitatea?",
+      "description": "Contactați-ne astăzi pentru a discuta despre nevoile dumneavoastră și a obține o ofertă personalizată.",
+      "button": "Solicită o ofertă"
+    },
+    "testimonials": {
+      "title": "Ce spun clienții noștri",
+      "subtitle": "Experiențe reale de la clienții noștri",
+      "items": [
+        {
+          "content": "APS-MS a oferit o soluție excelentă pentru sistemul nostru de securitate. Profesioniști adevărați, recomand cu încredere!",
+          "author": "Alexandru Popescu",
+          "position": "Director General, Alfa Solutions"
+        },
+        {
+          "content": "Colaborarea cu echipa APS-MS a fost impecabilă. Proiectul a fost livrat la timp și în buget, depășind așteptările noastre.",
+          "author": "Maria Ionescu",
+          "position": "Manager Operațional, Beta Industries"
+        },
+        {
+          "content": "De 5 ani lucrăm cu APS-MS pentru mentenanța sistemelor noastre de securitate și suntem foarte mulțumiți de profesionalismul lor.",
+          "author": "Cristian Dumitrescu",
+          "position": "Facility Manager, Gamma Retail"
+        }
+      ]
+    },
+    "projects": {
+      "title": "Proiectele noastre recente",
+      "subtitle": "Explorați o selecție din proiectele finalizate recent",
+      "viewAll": "Vezi toate proiectele"
+    },
+    "partners": {
+      "title": "Partenerii noștri",
+      "subtitle": "Colaborăm cu cele mai bune companii din industrie"
+    },
+    "blog": {
+      "title": "Ultimele articole",
+      "subtitle": "Aflați cele mai recente noutăți și sfaturi din industria securității",
+      "viewAll": "Vezi toate articolele"
+    }
+  },
+  "footer": {
+    "description": "APS-MS oferă soluții profesionale de securitate și protecție pentru afacerea și proprietatea dumneavoastră",
+    "copyright": "© 2025 APS-MS. Toate drepturile rezervate.",
+    "links": {
+      "title": "Link-uri rapide",
+      "privacy": "Politica de utilizare a cookie-urilor",
+      "terms": "Termeni și condiții"
+    },
+    "contact": {
+      "title": "Contact",
+      "address": "Strada Bradului 200, Sâncraiu de Mureș, Mureș, România",
+      "phone": "0731-021.379",
+      "email": "contact@aps-ms.ro"
+    },
+    "social": {
+      "title": "Social media",
+      "follow": "Urmărește-ne pe"
+    }
+  },
+  "cookie": {
+    "message": "Acest site folosește cookie-uri pentru a îmbunătăți experiența dumneavoastră.",
+    "accept": "Accept",
+    "decline": "Refuz",
+    "learnMore": "Află mai multe"
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Suntem aici pentru a răspunde întrebărilor tale și pentru a te ajuta cu orice solicitare.",
+    "form": {
+      "firstName": "Prenume",
+      "lastName": "Nume",
+      "email": "Email",
+      "phone": "Telefon",
+      "message": "Spune-ne pe scurt ce ai nevoie...",
+      "messageLabel": "Mesajul tău",
+      "submit": "Trimite mesaj",
+      "success": "Mulțumim! Te vom contacta în curând.",
+      "error": "A apărut o eroare. Încearcă din nou.",
+      "keyboardShortcut": "Apasă tasta 'C' pentru a focaliza rapid primul câmp.",
+      "required": "Acest câmp este obligatoriu",
+      "invalidEmail": "Adresa de email nu este validă",
+      "invalidPhone": "Numărul de telefon trebuie să conțină doar cifre"
+    },
+    "location": {
+      "title": "Locație",
+      "address": "Strada Bradului 200, Sâncraiu de Mureș, Județ Mureș, România",
+      "mapLink": "Deschide în Google Maps"
+    }
+  },
+  "about": {
+    "title": "Despre noi",
+    "subtitle": "Cunoaște echipa care asigură securitatea afacerii și a proprietății tale.",
+    "whoWeAre": {
+      "title": "Cine suntem",
+      "content": [
+        "Cu o experiență de peste 10 ani în domeniul securității private, Alpha Partner Security oferă soluții inteligente și personalizate pentru companii care își doresc siguranță fără compromisuri.",
+        "Ne diferențiem prin profesionalism, tehnologie de ultimă generație și un angajament constant față de calitate. Fiecare intervenție este susținută de o echipă atent instruită, dedicată protejării bunurilor și liniștii clienților noștri.",
+        "Punem accent pe parteneriate solide, confidențialitate și o abordare adaptată nevoilor fiecărui client. La noi, securitatea înseamnă încredere construită prin acțiuni concrete."
+      ]
+    },
+    "principles": {
+      "title": "Principiile care ne definesc",
+      "items": [
+        {
+          "title": "Performanță",
+          "content": "Ne angajăm să livrăm servicii la cele mai înalte standarde, cu intervenții rapide, eficiente și echipe pregătite pentru orice scenariu."
+        },
+        {
+          "title": "Integritate",
+          "content": "Transparența și onestitatea sunt fundamentul relației cu fiecare client. Ne respectăm promisiunile, fără excepție."
+        },
+        {
+          "title": "Discreție",
+          "content": "Protejăm nu doar bunurile, ci și confidențialitatea — element esențial în orice parteneriat durabil."
+        }
+      ]
+    },
+    "experience": {
+      "title": "Experiența care ne recomandă",
+      "items": [
+        "Am construit în timp o reputație solidă bazată pe rezultate, nu doar pe cuvinte.",
+        "Clienții noștri știu că se pot baza pe noi pentru securitate 24/7, fie că vorbim despre intervenții rapide, sisteme inteligente sau supraveghere complexă.",
+        "Suntem mereu cu un pas înainte, astfel încât clienții să se poată concentra pe ceea ce contează cu adevărat — liniștea și continuitatea afacerii lor."
+      ],
+      "stats": [
+        {
+          "label": "Experiență în domeniu",
+          "value": "10+ ani",
+          "percentage": "90%"
+        },
+        {
+          "label": "Clienți mulțumiți",
+          "value": "300+",
+          "percentage": "95%"
+        },
+        {
+          "label": "Promptitudine în intervenții",
+          "value": "98%",
+          "percentage": "98%"
+        }
+      ]
+    },
+    "team": {
+      "title": "Echipa noastră",
+      "subtitle": "Profesioniști dedicați care asigură protecția și securitatea clienților noștri.",
+      "quote": "Securitatea nu este doar un serviciu pe care îl oferim, ci o promisiune pe care ne angajăm să o îndeplinim pentru fiecare client. Aceasta este misiunea noastră, în fiecare zi."
+    },
+    "cta": {
+      "title": "Dorești o evaluare gratuită a nevoilor de securitate?",
+      "description": "Contactează-ne astăzi pentru a discuta despre nevoile tale de securitate și pentru a primi o ofertă personalizată.",
+      "button": "Solicită o consultație"
+    }
+  },
+  "services": {
+    "title": "Serviciile noastre",
+    "subtitle": "Oferim servicii de calitate pentru siguranța și protecția obiectivelor tale.",
+    "services": [
+      {
+        "title": "Pază și protecție, intervenție rapidă",
+        "content": "Oferim servicii de pază umană, patrulare și intervenție rapidă la evenimente, 24/7. Echipajele noastre sunt instruite, dotate și coordonate prin dispecerat propriu. Răspundem prompt pentru protecția clienților noștri."
+      },
+      {
+        "title": "Sisteme de control acces",
+        "content": "Implementăm soluții moderne de control acces pentru clădiri rezidențiale și industriale. Control biometric, carduri RFID sau coduri PIN. Accesul este gestionat în siguranță și eficient, cu rapoarte centralizate."
+      },
+      {
+        "title": "Instalare sisteme antiefracție",
+        "content": "Montăm sisteme antiefracție profesionale, integrate cu senzori, sirene și alerte în timp real. Configurare personalizată pentru case, birouri și spații comerciale. Asigurăm monitorizare continuă prin dispecerat."
+      },
+      {
+        "title": "Instalare sisteme antiincendiu",
+        "content": "Instalăm și configurăm sisteme antiincendiu certificate, conforme cu normele IGSU, P118/3 și EN54. Asigurăm detectare rapidă, avertizare eficientă și declanșare automată a măsurilor de siguranță. Respectăm toate cerințele legale pentru protecția optimă a vieților și bunurilor."
+      },
+      {
+        "title": "Dispecerat / Monitorizare",
+        "content": "Monitorizăm non-stop toate alarmele și evenimentele din teren prin dispecerat propriu. Intervenim rapid în caz de efracție, incendiu sau urgențe. Infrastructura noastră este redundantă și securizată."
+      },
+      {
+        "title": "Mentenanță tehnică sisteme",
+        "content": "Asigurăm mentenanță periodică și intervenții tehnice pentru toate sistemele instalate. Verificări, actualizări și remedieri rapide pentru funcționare optimă. Contracte flexibile de service disponibile."
+      },
+      {
+        "title": "Bariere acces auto și sisteme de automatizare a porților",
+        "content": "Furnizăm soluții automatizate pentru controlul accesului auto: bariere, porți culisante sau batante. Sisteme robuste, telecomandate sau integrate în sistemele de control acces. Estetică și funcționalitate la standarde înalte."
+      },
+      {
+        "title": "Rețele date și voce pentru companii",
+        "content": "Proiectăm și instalăm rețele de comunicație date și voce, structurate profesional. Soluții stabile, rapide și scalabile pentru birouri și hale industriale. Tehnologie actualizată și trasare optimizată a cablajelor."
+      },
+      {
+        "title": "Interfonie video/audio pentru sedii și proprietăți private",
+        "content": "Sisteme de interfonie audio și video pentru sedii și proprietăți private. Oferim vizibilitate, control și comunicare eficientă la punctele de acces. Instalare discretă și integrare cu alte sisteme de securitate."
+      },
+      {
+        "title": "Supraveghere video CCTV",
+        "content": "Instalăm camere de supraveghere moderne, cu vedere nocturnă, rezoluție HD și acces de la distanță. Configurare inteligentă cu stocare în cloud sau local. Monitorizare completă pentru orice tip de locație."
+      }
+    ],
+    "cta": {
+      "title": "Protejați-vă investiția cu soluții de securitate de încredere",
+      "description": "Experții noștri vă stau la dispoziție pentru o evaluare completă și personalizată a nevoilor dumneavoastră de securitate. Programați o consultație gratuită astăzi.",
+      "button": "Solicită o evaluare de securitate"
+    }
+  },
+  "projects": {
+    "title": "Proiectele Noastre",
+    "subtitle": "Explorați portofoliul nostru divers de soluții de securitate implementate pentru clienți din sectoare variate.",
+    "cta": {
+      "title": "Dorești să fii următorul nostru proiect de succes?",
+      "description": "Contactează-ne astăzi pentru a discuta despre nevoile tale de securitate și pentru a primi o ofertă personalizată.",
+      "button": "Solicită o consultație"
+    }
+  },
+  "map": {
+    "title": "Prezență la nivel național",
+    "subtitle": "Cu sediul în Sâncraiu de Mureș, oferim servicii de securitate în toată România",
+    "hq": "Sediul Central",
+    "instructions": {
+      "main": "Folosiți mouse-ul pentru a interacționa cu harta. Faceți hover pe orașe pentru detalii.",
+      "zoom": "Utilizați rotiţa mouse-ului sau butoanele pentru zoom, și click+drag pentru a vă deplasa pe hartă."
+    },
+    "citiesInfo": {
+      "București": "Capitala României, centrul administrativ și cultural al țării",
+      "Cluj-Napoca": "Al doilea oraș ca mărime, centru tehnologic și universitar",
+      "Timișoara": "Capitala Banatului, important centru economic și cultural",
+      "Iași": "Centru cultural și universitar major în regiunea Moldovei",
+      "Constanța": "Cel mai important port maritim al României la Marea Neagră",
+      "Brașov": "Importantă destinație turistică cu o bogată istorie medievală",
+      "Craiova": "Centru economic și cultural al regiunii Oltenia",
+      "Galați": "Important port fluvial la Dunăre și centru industrial"
+    }
+  },
+  "privacy": {
+    "title": "Politica de utilizare a cookie-urilor",
+    "subtitle": "Informații despre modul în care folosim cookie-urile pe site-ul nostru",
+    "description": "Informații importante despre cookie-urile utilizate pe site-ul nostru",
+    "language": "ro"
+  },
+  "terms": {
+    "title": "Termeni și condiții",
+    "subtitle": "Termenii și condițiile de utilizare a site-ului nostru",
+    "description": "Informații despre drepturile și obligațiile dumneavoastră în calitate de utilizator al site-ului nostru",
+    "language": "ro"
+  }
+}

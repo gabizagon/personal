@@ -1,0 +1,251 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  
+  body {
+    @apply font-sans text-gray-800 bg-[#070e24];
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading font-bold;
+  }
+  
+  /* CSS Variables for services page */
+  :root {
+    --blue-dark: #0A1F44;
+    --blue-med: #123A6A;
+    --blue-light: #1E4B9E;
+  }
+}
+
+@layer components {
+  .container {
+    @apply px-4 mx-auto max-w-7xl;
+  }
+  
+  .btn {
+    @apply inline-flex items-center justify-center px-6 py-3 text-base font-medium transition-all duration-300 rounded-md;
+  }
+  
+  .btn-primary {
+    @apply text-white bg-primary-600 hover:bg-primary-700 focus:ring-4 focus:ring-primary-300;
+  }
+  
+  .btn-secondary {
+    @apply text-primary-700 bg-primary-100 hover:bg-primary-200 focus:ring-4 focus:ring-primary-100;
+  }
+  
+  .btn-accent {
+    @apply text-white bg-accent-500 hover:bg-accent-600 focus:ring-4 focus:ring-accent-300;
+  }
+
+  .section {
+    @apply py-16 md:py-24;
+  }
+
+  .section-title {
+    @apply mb-12 text-3xl font-bold text-center md:text-4xl lg:text-5xl;
+  }
+
+  .section-subtitle {
+    @apply max-w-3xl mx-auto mb-16 text-lg text-center text-gray-600;
+  }
+  
+  /* Add stat card styling */
+  .stat-card {
+    @apply cursor-pointer;
+    transform: translateZ(0);
+    backface-visibility: hidden;
+    will-change: transform, box-shadow;
+  }
+  
+  .stat-card:hover {
+    box-shadow: 0 20px 25px -5px rgba(59, 73, 171, 0.1), 0 10px 10px -5px rgba(59, 73, 171, 0.04);
+  }
+  
+  /* Facebook icon styling */
+  .facebook-icon {
+    color: white;
+    transition: all 0.3s ease;
+  }
+  
+  .facebook-icon:hover {
+    color: white;
+    filter: drop-shadow(0 0 8px rgba(165, 180, 252, 0.8));
+  }
+  
+  /* Services page specific styling */
+  .service-icon {
+    will-change: transform;
+    transition: transform 0.3s ease;
+  }
+  
+  .service-card:hover .service-icon {
+    transform: scale(1.1);
+  }
+}
+
+.text-gradient {
+  @apply bg-clip-text text-transparent bg-gradient-to-r from-primary-600 to-secondary-600;
+}
+
+.card-hover {
+  @apply transition-all duration-300 hover:shadow-lg hover:-translate-y-1;
+}
+
+.parallax-container {
+  overflow: hidden;
+  position: relative;
+}
+
+.parallax-bg {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 120%;
+  background-size: cover;
+  background-position: center;
+  z-index: -1;
+  transform: translateZ(-1px) scale(2);
+}
+
+@keyframes pulse-slow {
+  0%, 100% {
+    opacity: 0.4;
+    transform: scale(0.8);
+  }
+  50% {
+    opacity: 0.6;
+    transform: scale(1.2);
+  }
+}
+
+.animate-pulse-slow {
+  animation: pulse-slow 3s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+/* Optimize animations by using hardware acceleration */
+.will-change-transform {
+  will-change: transform;
+}
+
+.transform-gpu {
+  transform: translate3d(0, 0, 0);
+}
+
+/* Ensure fixed elements don't disappear on scroll */
+.fixed-element {
+  backface-visibility: hidden;
+  transform: translateZ(0);
+}
+
+/* Smooth section transitions */
+section {
+  position: relative;
+  z-index: 1;
+  backface-visibility: hidden;
+}
+
+/* Prevent flickering during animations */
+* {
+  backface-visibility: hidden;
+}
+
+/* Global particle background container */
+.particle-background {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  pointer-events: none;
+}
+
+/* Custom utility for icon hover scaling */
+.group-hover\:scale-120 {
+  @apply transition-transform;
+}
+.group:hover .group-hover\:scale-120 {
+  transform: scale(1.2);
+}
+
+/* Marquee animation */
+@keyframes marquee {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(calc(-50%));
+  }
+}
+
+@keyframes marquee-reverse {
+  from {
+    transform: translateX(calc(-50%));
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+.animate-marquee {
+  animation: marquee var(--duration, 30s) linear infinite;
+}
+
+.animate-marquee-reverse {
+  animation: marquee-reverse var(--duration, 30s) linear infinite;
+}
+
+/* Blinking cursor animation for typewriter effect */
+@keyframes blink {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0;
+  }
+}
+
+.animate-blink {
+  animation: blink 1s step-end infinite;
+}
+
+/* Shake animation for form error */
+@keyframes shake {
+  0%, 100% {
+    transform: translateX(0);
+  }
+  10%, 30%, 50%, 70%, 90% {
+    transform: translateX(-5px);
+  }
+  20%, 40%, 60%, 80% {
+    transform: translateX(5px);
+  }
+}
+
+.animate-shake {
+  animation: shake 0.5s cubic-bezier(0.36, 0.07, 0.19, 0.97) both;
+}
+
+/* Slide down animation for success message */
+@keyframes slide-down {
+  from {
+    transform: translateY(-20px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.animate-slide-down {
+  animation: slide-down 0.3s ease forwards;
+}
